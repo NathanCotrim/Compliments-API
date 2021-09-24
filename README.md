@@ -5,13 +5,13 @@
 
 <h1 align="center">Praise 💙</h1>
 
-## Description <a name = "about"></a>
+## ℹ️ Description <a name = "about"></a>
 
 It is an compliments API developed in Rocketseat - NLW Together with Typescript, nodeJs, Sqlite and Typeorm!
 <br>
 <br>
 
-## Installing
+## 📉 Installing
 
 After clone it, just run:
 
@@ -26,7 +26,7 @@ npm install
 ```
 <br>
 
-## Usage <a name = "usage"></a>
+## 🖱️ Usage <a name = "usage"></a>
 <br>
 
 To run all migrations and create the tables, just run:
@@ -74,7 +74,7 @@ npm run dev
 <hr>
 <br>
 
-## Features and Requirements
+## 🌠 Features and Requirements
 
 + You can register an user;
 + You can authenticate the user;
@@ -89,7 +89,7 @@ npm run dev
 
 <br>
 
-## Covered Concepts
+## 📚 Covered Concepts
 
 + Orm - Typeorm;
 + Migrations;

@@ -3,7 +3,7 @@
  <img src="https://blogimage.vantagecircle.com/vcblogimages/2020/07/compliments-for-coworkers.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Compliments API <3</h1>
+<h1 align="center">Praise 💙</h1>
 
 ## Description <a name = "about"></a>
 
